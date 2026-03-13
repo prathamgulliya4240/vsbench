@@ -1,50 +1,258 @@
-[
-  {
-    "topic": "AI healthcare",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI-driven personalized nutrition and chronic disease management platform for patients with diabetes.  \ntarget customer: Individuals diagnosed with type 1 or type 2 diabetes and their primary care providers.  \ngo-to-market strategy: Partner with diabetes clinics and health insurers to offer the platform as a value‑add service; use targeted digital marketing and patient advocacy groups to drive adoption.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-powered tele‑psychiatry platform with real‑time mood analysis for mental health professionals.  \ntarget customer: Psychiatrists, psychologists, and mental health clinics seeking remote care solutions.  \ngo-to-market strategy: Integrate with existing electronic health record systems, attend mental health conferences, and provide free pilot programs to early adopters.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-based predictive maintenance system for medical devices in hospitals.  \ntarget customer: Hospital operations managers and biomedical engineering departments.  \ngo-to-market strategy: Offer a subscription model with a free diagnostic audit, partner with device manufacturers for co‑marketing, and showcase ROI through case studies.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-enabled clinical trial recruitment matching platform for pharmaceutical companies.  \ntarget customer: Clinical research organizations and pharma R&D teams.  \ngo-to-market strategy: Leverage data partnerships with hospitals, provide a demo to key pharma stakeholders, and use industry events to build credibility.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-driven remote monitoring and early warning system for post‑surgical patients.  \ntarget customer: Hospitals, surgical centers, and post‑acute care facilities.  \ngo-to-market strategy: Pilot in high‑volume surgical departments, integrate with wearable devices, and offer a bundled service with post‑discharge care plans.</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:06:32.359756+00:00"
-  },
-  {
-    "topic": "AI developer tools",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI Code Review Assistant  \ntarget customer: mid-size software teams looking to improve code quality and reduce bugs  \ngo-to-market strategy: launch a GitHub Actions integration with a freemium model, partner with popular IDEs, run targeted webinars for engineering managers</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-Driven API Generation Platform  \ntarget customer: early-stage startups building MVPs that need rapid backend development  \ngo-to-market strategy: offer a SaaS product with a free tier, host live demos, partner with cloud providers for pre-built templates</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-Powered Test Automation Generator  \ntarget customer: QA teams in enterprises seeking to accelerate test coverage  \ngo-to-market strategy: release a plugin for popular test frameworks, publish case studies, showcase at industry conferences</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Code Refactoring Advisor  \ntarget customer: individual developers and small teams wanting clean, maintainable code  \ngo-to-market strategy: develop a VS Code extension, open-source core, engage community through hackathons and tutorials</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-Enabled DevOps Pipeline Optimizer  \ntarget customer: DevOps engineers aiming to reduce build failures and optimize CI/CD  \ngo-to-market strategy: integrate with Jenkins and GitLab, provide an analytics dashboard, offer a free trial and enterprise licensing</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:06:44.106656+00:00"
-  },
-  {
-    "topic": "AI education",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: Adaptive Lesson Planner – an AI platform that analyzes student performance data to generate personalized lesson plans and resources for K‑12 teachers.  \ntarget customer: Public and private K‑12 schools, individual teachers seeking efficient curriculum design.  \ngo-to-market strategy: Partner with school districts through pilot programs, offer a freemium model for teachers, and provide professional development webinars to showcase AI-driven insights.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Career Compass Bot – an AI chatbot that evaluates college students’ skills, interests, and market trends to recommend tailored career paths and study plans.  \ntarget customer: Undergraduate students and university career services offices.  \ngo-to-market strategy: Integrate with university portals, run campus ambassador campaigns, and offer a subscription tier for career services departments.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Corporate Language Coach – an AI tutor that delivers conversational practice, pronunciation feedback, and industry‑specific vocabulary for employees learning a new language.  \ntarget customer: Mid‑ to large‑size enterprises with global teams.  \ngo-to-market strategy: Partner with HR tech platforms, provide a free trial for pilot teams, and attend industry conferences to demonstrate ROI on communication efficiency.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Curriculum Builder – a tool that helps university faculty design modular, competency‑based courses by generating outlines, assessments, and adaptive learning paths.  \ntarget customer: Higher‑education faculty and instructional designers.  \ngo-to-market strategy: Offer a cloud‑based subscription, host workshops at academic conferences, and collaborate with university technology centers for beta testing.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: MentorMatch AI – a platform that uses AI to match students with industry mentors based on skills, goals, and mentor availability, facilitating virtual mentorship sessions.  \ntarget customer: High‑school and college students seeking career guidance, and professional associations.  \ngo-to-market strategy: Launch through university career centers, provide a free tier for students, and partner with industry guilds to supply mentor networks.</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:06:54.154249+00:00"
-  },
-  {
-    "topic": "AI fintech",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI-driven micro-investment platform for gig workers that automatically invests spare change from rideshare and delivery earnings into diversified portfolios.  \ntarget customer: Gig economy workers (rideshare drivers, food delivery couriers, freelance contractors) who lack time and financial literacy.  \ngo-to-market strategy: Partner with gig platforms (Uber, DoorDash, Upwork) to embed the app as a value‑add feature; use referral incentives and social media campaigns targeting gig worker communities.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-powered credit scoring engine for small businesses that aggregates alternative data (social media sentiment, payment histories, IoT device usage) to provide instant credit decisions.  \ntarget customer: Micro‑SMEs in emerging markets that struggle to access traditional bank credit.  \ngo-to-market strategy: Integrate with local payment processors and e‑commerce platforms; offer a freemium API tier to attract early adopters and showcase ROI through case studies.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Conversational AI financial coach for Gen Z that provides budgeting, saving, and investing advice through a mobile chatbot.  \ntarget customer: Gen Z consumers (ages 18‑25) who prefer messaging apps over traditional banking interfaces.  \ngo-to-market strategy: Launch on popular messaging platforms (WhatsApp, Telegram, Discord) with gamified challenges; partner with universities and student unions for pilot programs.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI‑driven fraud detection and prevention suite for cryptocurrency exchanges that analyzes transaction patterns in real time.  \ntarget customer: Crypto exchanges and wallet providers looking to reduce chargebacks and regulatory risk.  \ngo-to-market strategy: Offer a cloud‑based SaaS with a 30‑day free trial; attend crypto conferences and publish whitepapers to build credibility among security‑focused stakeholders.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI‑automated tax filing platform tailored for freelancers and independent contractors that automatically imports income data from multiple sources and optimizes deductions.  \ntarget customer: Freelancers, consultants, and gig workers in the US and EU who file taxes annually.  \ngo-to-market strategy: Partner with freelance marketplaces (Fiverr, Toptal) to embed the tool; use content marketing (webinars, tax‑prep guides) and targeted ads on LinkedIn and Reddit.</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:07:01.808077+00:00"
-  },
-  {
-    "topic": "AI marketplaces",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI Model Exchange for Healthcare Diagnostics  \ntarget customer: Medical device manufacturers and hospital IT departments  \ngo-to-market strategy: Partner with medical associations, attend healthcare tech conferences, offer API integration and compliance certification to accelerate adoption</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Data Marketplace for Autonomous Vehicles  \ntarget customer: Automotive OEMs and autonomous driving startups  \ngo-to-market strategy: Provide high‑quality, annotated driving datasets, license via a subscription model, showcase at automotive tech events and collaborate on joint research projects</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Tool Marketplace for Creative Professionals  \ntarget customer: Graphic designers, video editors, and content creators  \ngo-to-market strategy: Build a plugin ecosystem, use influencer marketing, offer a freemium tier with premium AI features, and integrate with popular creative suites</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Service Marketplace for Small Business Automation  \ntarget customer: SMBs in retail, finance, and logistics  \ngo-to-market strategy: Bundle AI services with existing SaaS platforms, run webinars and case studies, and provide a low‑cost subscription model with easy onboarding</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI Algorithm Marketplace for Edge Devices  \ntarget customer: IoT manufacturers and industrial automation firms  \ngo-to-market strategy: Offer SDK integration, certification programs, and showcase at industry trade shows; provide a revenue‑share model for algorithm developers</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:07:10.099958+00:00"
-  },
-  {
-    "topic": "AI marketing",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI-Powered Micro-Influencer Marketplace  \ntarget customer: Small and medium brands looking to scale influencer marketing without large budgets  \ngo-to-market strategy: Launch a freemium platform that matches brands with micro-influencers based on AI-driven audience analytics; partner with influencer networks for initial listings and run targeted LinkedIn ads to brand managers</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Conversational Ad Creative Generator  \ntarget customer: Digital agencies and e-commerce brands needing rapid ad copy and visual variations  \ngo-to-market strategy: Offer a SaaS tool with API access; pilot with top 10 agencies, showcase case studies on social media, and use content marketing to attract marketers via SEO</text>\n<probability>0.04</probability>\n</response>\n<response>\n<text>startup idea: AI-Driven Customer Journey Optimizer  \ntarget customer: B2B SaaS companies aiming to improve conversion funnels  \ngo-to-market strategy: Provide a plug‑in for existing CRMs; host webinars for product managers, and secure early adopters through a beta program with data‑driven ROI reports</text>\n<probability>0.03</probability>\n</response>\n<response>\n<text>startup idea: Real-Time Sentiment-Adjusted Ad Bidding Platform  \ntarget customer: Programmatic advertisers who want to adjust bids based on brand sentiment in real time  \ngo-to-market strategy: Integrate with major DSPs, offer a pilot to large agencies, and publish whitepapers on sentiment impact to build credibility</text>\n<probability>0.02</probability>\n</response>\n<response>\n<text>startup idea: AI-Powered Personalization Engine for Email Campaigns  \ntarget customer: E‑commerce retailers seeking higher email open and click rates  \ngo-to-market strategy: Deploy a cloud service with easy integration, partner with email service providers for co‑marketing, and run a referral program for early adopters</text>\n<probability>0.01</probability>\n</response>",
-    "timestamp": "2026-03-12T20:07:20.228449+00:00"
-  },
-  {
-    "topic": "AI logistics",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: AI-driven predictive maintenance platform for commercial fleets that forecasts vehicle component failures before they happen.  \ntarget customer: Mid-size trucking and delivery companies looking to reduce downtime and maintenance costs.  \ngo-to-market strategy: Partner with fleet management software vendors for integration, offer a freemium pilot to showcase ROI, and use targeted LinkedIn ads to reach fleet managers.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-powered dynamic routing engine that optimizes last-mile delivery routes in real time based on traffic, weather, and customer preferences.  \ntarget customer: E-commerce retailers and logistics providers operating urban delivery fleets.  \ngo-to-market strategy: Launch a pilot with a regional courier partner, provide a white-label API, and attend logistics tech conferences to demo live route optimization.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-based warehouse inventory optimization platform that predicts demand, automates replenishment, and reduces stockouts.  \ntarget customer: Medium to large warehouses and fulfillment centers in retail and manufacturing.  \ngo-to-market strategy: Offer a cloud-based SaaS with a 30-day free trial, partner with ERP vendors for seamless data import, and run webinars for warehouse operations managers.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-enabled freight matching marketplace that connects shippers with carriers using real-time supply and demand data to secure optimal rates.  \ntarget customer: Small to medium shippers and independent carriers seeking cost-effective freight solutions.  \ngo-to-market strategy: Build a mobile app with a referral program, partner with industry associations for credibility, and use content marketing on freight logistics blogs.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-powered supply chain risk analytics platform that monitors geopolitical, environmental, and operational risks to provide actionable insights.  \ntarget customer: Global manufacturers and supply chain executives in high-risk industries.  \ngo-to-market strategy: Offer a data-as-a-service model with tiered subscriptions, host industry roundtables, and publish case studies demonstrating risk mitigation ROI.</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:07:27.301141+00:00"
-  },
-  {
-    "topic": "AI robotics",
-    "prompt_type": "direct",
-    "raw_output": "<response>\n<text>startup idea: Autonomous warehouse robot fleet management platform that uses AI to optimize routing, task allocation, and predictive maintenance for warehouse robots.  \ntarget customer: Medium to large e-commerce fulfillment centers and logistics companies.  \ngo-to-market strategy: Partner with leading warehouse robotics vendors to integrate the platform as a plug‑in, offer a freemium trial, and attend logistics trade shows to demo real‑time savings.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI-powered home cleaning robot with adaptive learning that maps homes, recognizes clutter patterns, and schedules cleaning autonomously.  \ntarget customer: Tech‑savvy homeowners and apartment dwellers in urban areas.  \ngo-to-market strategy: Launch a direct‑to‑consumer e‑commerce campaign, collaborate with smart home ecosystems, and provide a subscription service for premium AI updates.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Collaborative robot (cobot) platform for small manufacturing SMEs that uses computer vision and reinforcement learning to adapt to new parts and tasks on the fly.  \ntarget customer: Small to mid‑size manufacturers in automotive, electronics, and consumer goods.  \ngo-to-market strategy: Offer a modular cobot kit with a cloud‑based AI service, provide on‑site pilot programs, and partner with industry associations for certification.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: AI‑driven agricultural drone robot that performs precision spraying, crop monitoring, and soil analysis using computer vision and sensor fusion.  \ntarget customer: Mid‑size farms and agribusiness cooperatives.  \ngo-to-market strategy: Deploy a pilot program with a regional farm cooperative, provide a subscription for data analytics, and attend agricultural expos to showcase yield improvements.</text>\n<probability>0.05</probability>\n</response>\n<response>\n<text>startup idea: Service robot for elderly care that uses emotion recognition and natural language processing to provide companionship, medication reminders, and safety monitoring.  \ntarget customer: Assisted living facilities and home‑care agencies.  \ngo-to-market strategy: Partner with healthcare providers for pilot deployments, secure regulatory approvals, and offer a bundled hardware‑software subscription model.</text>\n<probability>0.05</probability>\n</response>",
-    "timestamp": "2026-03-12T20:07:40.060891+00:00"
-  }
-]
+from __future__ import annotations
+
+import json
+import os
+import re
+from pathlib import Path
+from typing import Any, Dict, Iterable, List
+
+import numpy as np
+import pandas as pd
+from sentence_transformers import SentenceTransformer
+from sklearn.cluster import KMeans
+from sklearn.metrics.pairwise import cosine_similarity
+
+
+PARSED_VS_PATH = Path("data/parsed_vs_ideas.json")
+DIRECT_OUTPUTS_PATH = Path("data/direct_outputs.json")
+OUTPUT_PATH = Path("data/diversity_metrics.json")
+EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
+
+RESPONSE_BLOCK_RE = re.compile(r"<response>(.*?)</response>", re.DOTALL | re.IGNORECASE)
+TEXT_RE = re.compile(r"<text>(.*?)</text>", re.DOTALL | re.IGNORECASE)
+IDEA_LINE_RE = re.compile(r"startup idea\s*:\s*(.+)", re.IGNORECASE)
+WORD_RE = re.compile(r"\b\w+\b", re.UNICODE)
+
+
+def load_json(path: Path) -> Any:
+    if not path.exists():
+        raise FileNotFoundError(f"Missing input file: {path}")
+    with path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def extract_idea_from_text(text: str) -> str:
+    stripped = text.strip()
+    for line in stripped.splitlines():
+        match = IDEA_LINE_RE.search(line.strip())
+        if match:
+            return match.group(1).strip()
+    return stripped
+
+
+def parse_direct_item(raw_output: str) -> List[str]:
+    ideas: List[str] = []
+    content = raw_output.strip()
+    if not content:
+        return ideas
+
+    blocks = RESPONSE_BLOCK_RE.findall(content)
+    if blocks:
+        for block in blocks:
+            text_match = TEXT_RE.search(block)
+            if text_match:
+                idea = extract_idea_from_text(text_match.group(1))
+                if idea:
+                    ideas.append(idea)
+        if ideas:
+            return ideas
+
+    for line in content.splitlines():
+        match = IDEA_LINE_RE.search(line.strip())
+        if match:
+            idea = match.group(1).strip()
+            if idea:
+                ideas.append(idea)
+    if ideas:
+        return ideas
+
+    return [content]
+
+
+def normalize_vs_ideas(raw_items: Any) -> List[str]:
+    if not isinstance(raw_items, list):
+        raise ValueError("Expected a JSON array for parsed_vs_ideas.json")
+    ideas: List[str] = []
+    for item in raw_items:
+        if not isinstance(item, dict):
+            continue
+        idea = str(item.get("idea", "")).strip()
+        if idea:
+            ideas.append(idea)
+    return ideas
+
+
+def normalize_direct_ideas(raw_items: Any) -> List[str]:
+    if not isinstance(raw_items, list):
+        raise ValueError("Expected a JSON array for direct_outputs.json")
+    ideas: List[str] = []
+    for item in raw_items:
+        if not isinstance(item, dict):
+            continue
+        raw_output = str(item.get("raw_output", ""))
+        ideas.extend(parse_direct_item(raw_output))
+    return [idea for idea in ideas if idea.strip()]
+
+
+def tokenize(text: str) -> List[str]:
+    return WORD_RE.findall(text.lower())
+
+
+def distinct_n(texts: Iterable[str], n: int) -> float:
+    ngrams = set()
+    total = 0
+    for text in texts:
+        tokens = tokenize(text)
+        if len(tokens) < n:
+            continue
+        for i in range(len(tokens) - n + 1):
+            ngrams.add(tuple(tokens[i : i + n]))
+            total += 1
+    if total == 0:
+        return 0.0
+    return len(ngrams) / total
+
+
+def semantic_diversity(embeddings: np.ndarray) -> float:
+    n = len(embeddings)
+    if n < 2:
+        return 0.0
+    sim_matrix = cosine_similarity(embeddings)
+    upper = sim_matrix[np.triu_indices(n, k=1)]
+    avg_similarity = float(np.mean(upper)) if upper.size else 0.0
+    return 1.0 - avg_similarity
+
+
+def concept_diversity(embeddings: np.ndarray) -> Dict[str, Any]:
+    n = len(embeddings)
+    if n == 0:
+        return {
+            "n_clusters": 0,
+            "cluster_distribution": {},
+            "concept_diversity_ratio": 0.0,
+        }
+
+    # Heuristic: small but meaningful number of clusters.
+    n_clusters = max(2, int(np.sqrt(n)))
+    n_clusters = min(n_clusters, 10, n)
+    if n_clusters < 2:
+        n_clusters = 1
+
+    if n_clusters == 1:
+        return {
+            "n_clusters": 1,
+            "cluster_distribution": {"0": n},
+            "concept_diversity_ratio": 1.0,
+        }
+
+    model = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+    labels = model.fit_predict(embeddings)
+    unique, counts = np.unique(labels, return_counts=True)
+    cluster_distribution = {str(int(k)): int(v) for k, v in zip(unique, counts)}
+
+    nonempty_clusters = int(np.count_nonzero(counts))
+    concept_diversity_ratio = nonempty_clusters / n_clusters
+    return {
+        "n_clusters": n_clusters,
+        "cluster_distribution": cluster_distribution,
+        "concept_diversity_ratio": concept_diversity_ratio,
+    }
+
+
+def compute_metrics(ideas: List[str], encoder: SentenceTransformer) -> Dict[str, Any]:
+    if not ideas:
+        return {
+            "num_ideas": 0,
+            "semantic_diversity": 0.0,
+            "lexical_diversity": {"distinct_1": 0.0, "distinct_2": 0.0},
+            "concept_diversity": {
+                "n_clusters": 0,
+                "cluster_distribution": {},
+                "concept_diversity_ratio": 0.0,
+            },
+        }
+
+    embeddings = encoder.encode(ideas, normalize_embeddings=True, show_progress_bar=False)
+    embeddings = np.asarray(embeddings)
+
+    return {
+        "num_ideas": len(ideas),
+        "semantic_diversity": semantic_diversity(embeddings),
+        "lexical_diversity": {
+            "distinct_1": distinct_n(ideas, n=1),
+            "distinct_2": distinct_n(ideas, n=2),
+        },
+        "concept_diversity": concept_diversity(embeddings),
+    }
+
+
+def print_summary_table(vs_metrics: Dict[str, Any], direct_metrics: Dict[str, Any]) -> None:
+    rows = [
+        {
+            "method": "VS prompting",
+            "num_ideas": vs_metrics["num_ideas"],
+            "semantic_diversity": round(vs_metrics["semantic_diversity"], 4),
+            "distinct_1": round(vs_metrics["lexical_diversity"]["distinct_1"], 4),
+            "distinct_2": round(vs_metrics["lexical_diversity"]["distinct_2"], 4),
+            "n_clusters": vs_metrics["concept_diversity"]["n_clusters"],
+            "concept_diversity_ratio": round(
+                vs_metrics["concept_diversity"]["concept_diversity_ratio"], 4
+            ),
+        },
+        {
+            "method": "Direct prompting",
+            "num_ideas": direct_metrics["num_ideas"],
+            "semantic_diversity": round(direct_metrics["semantic_diversity"], 4),
+            "distinct_1": round(direct_metrics["lexical_diversity"]["distinct_1"], 4),
+            "distinct_2": round(direct_metrics["lexical_diversity"]["distinct_2"], 4),
+            "n_clusters": direct_metrics["concept_diversity"]["n_clusters"],
+            "concept_diversity_ratio": round(
+                direct_metrics["concept_diversity"]["concept_diversity_ratio"], 4
+            ),
+        },
+    ]
+    df = pd.DataFrame(rows)
+    print("\nDiversity metrics comparison")
+    print(df.to_string(index=False))
+
+
+def save_metrics(path: Path, payload: Dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+
+
+def configure_local_hf_cache() -> None:
+    """Ensure model downloads can write within project workspace."""
+    project_cache = Path(".cache/huggingface").resolve()
+    project_cache.mkdir(parents=True, exist_ok=True)
+    os.environ.setdefault("HF_HOME", str(project_cache))
+    os.environ.setdefault("HUGGINGFACE_HUB_CACHE", str(project_cache / "hub"))
+
+
+def main() -> None:
+    configure_local_hf_cache()
+    parsed_vs_raw = load_json(PARSED_VS_PATH)
+    direct_raw = load_json(DIRECT_OUTPUTS_PATH)
+
+    vs_ideas = normalize_vs_ideas(parsed_vs_raw)
+    direct_ideas = normalize_direct_ideas(direct_raw)
+
+    encoder = SentenceTransformer(EMBEDDING_MODEL_NAME)
+
+    vs_metrics = compute_metrics(vs_ideas, encoder)
+    direct_metrics = compute_metrics(direct_ideas, encoder)
+
+    result = {
+        "embedding_model": EMBEDDING_MODEL_NAME,
+        "vs_prompting": vs_metrics,
+        "direct_prompting": direct_metrics,
+    }
+
+    save_metrics(OUTPUT_PATH, result)
+    print_summary_table(vs_metrics, direct_metrics)
+    print(f"\nSaved metrics to {OUTPUT_PATH}")
+
+
+if __name__ == "__main__":
+    main()

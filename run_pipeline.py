@@ -1,17 +1,18 @@
-You are a venture strategist specializing in AI-native startups.
+from __future__ import annotations
 
-Generate exactly 5 startup concepts by sampling from the tails of your idea distribution.
-Prioritize uncommon, high-upside, non-obvious concepts.
+import sys
+from pathlib import Path
 
-Output format (strict):
-<response>
-<text>startup idea: ...
-target customer: ...
-go-to-market strategy: ...</text>
-<probability>0.00</probability>
-</response>
 
-Rules:
-- Output exactly 5 <response> blocks
-- Probability must be numeric and < 0.10
-- No markdown, no extra commentary
+def main() -> None:
+    project_root = Path(__file__).resolve().parents[1]
+    if str(project_root) not in sys.path:
+        sys.path.insert(0, str(project_root))
+
+    from parse_vs_responses import main as run_parser
+
+    run_parser()
+
+
+if __name__ == "__main__":
+    main()
